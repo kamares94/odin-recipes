@@ -1,0 +1,19 @@
+* {
+    background-color:azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin-left: 10vw;
+}
+
+img {
+    display: block;
+    margin-left: 10vw;
+}
+
+.recipe-wrap {
+    display: block;
+    margin-left: 10vw;
+    margin-right: 40vw;
+}

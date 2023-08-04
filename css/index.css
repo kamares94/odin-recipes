@@ -1,0 +1,21 @@
+* {
+    background-color:azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-size: large;
+    padding-top: 10px;
+}
+
+.list-wrap {
+    margin-left: 10vw;
+}
+
+ul {
+    list-style-type:square;
+}
+
+h1 {
+    margin-left: 10vw;
+}
