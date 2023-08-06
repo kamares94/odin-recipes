@@ -3,17 +3,28 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-h1 {
-    margin-left: 10vw;
-}
-
 img {
-    display: block;
-    margin-left: 10vw;
+    width: 25em;
+}    
+
+li {
+    margin-bottom: 10px;
 }
 
 .recipe-wrap {
-    display: block;
+    margin-top: 5vw;
+    width: 50vw;
     margin-left: 10vw;
-    margin-right: 40vw;
+    /* outline: solid 1px red; */
+   }
+
+@media (max-width: 1000px) {
+    .recipe-wrap {
+        width: 83vw;
+        margin-left: 7vw;
+    }
+
+    img {
+        width: 83vw;
+    }
 }
